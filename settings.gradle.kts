@@ -1,0 +1,1 @@
+rootProject.name = "Sprint1.Testing"
